@@ -1,4 +1,4 @@
-# Atmospheric $CO_2$ & $CH_4$ Analysis Using NOAA Datasets
+# Atmospheric Carbon dioxide & Methane Analysis Using NOAA Datasets
 
 This repository contains a complete analytical workflow for studying long‑term atmospheric greenhouse gas trends using publicly available datasets from the **NOAA** atmospheric monitoring programs. The project focuses on:
 
@@ -27,6 +27,7 @@ Full methodological discussion is provided inside the notebook markdown cells. Y
 
 The notebooks use standard scientific Python libraries:
 
+```python
 - pandas  
 - numpy  
 - matplotlib  
@@ -34,5 +35,4 @@ The notebooks use standard scientific Python libraries:
 - statsmodels  
 - scikit-learn  
 - tensorflow  
-
-Most detailed discussion is intentionally kept inside the notebook markdown cells; this README provides a high‑level overview of the repository.
+```
