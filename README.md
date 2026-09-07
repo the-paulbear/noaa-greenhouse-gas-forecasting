@@ -1,4 +1,4 @@
-# Atmospheric Carbon dioxide & Methane Analysis Using NOAA Datasets
+# Atmospheric Carbon Dioxide & Methane Analysis Using NOAA Datasets
 
 This repository contains a complete analytical workflow for studying long‑term atmospheric greenhouse gas trends using publicly available datasets from the **NOAA** atmospheric monitoring programs. The project focuses on:
 
