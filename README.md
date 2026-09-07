@@ -20,8 +20,8 @@ This repository contains a complete analytical workflow for studying long‑term
 
 Full methodological discussion is provided inside the notebook markdown cells. You can also read the related articles on my website. This README provides only a high‑level overview of the repository!
 
-- [Time-Series Analysis of Atmospheric CO₂](https://your-website.com/co2-time-series-analysis)  
-- [Machine Learning Analysis of Atmospheric CH₄](https://your-website.com/ch4-machine-learning-analysis)
+- [Greenhouse Gas Modeling: Carbon Dioxide Analysis Using Statistical Time-Series Methods and NOAA Mauna Loa Data](https://paulmbaru.com/blog/articles/noaa-mauna-loa-co2-time-series-analysis.html)  
+- [Atmospheric Methane Forecasting Using Machine Learning Models and NOAA Global Marine Data](https://paulmbaru.com/blog/articles/noaa-global-methane-machine-learning-forecasting.html)
 
 ## Requirements
 
